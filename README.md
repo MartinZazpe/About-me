@@ -34,9 +34,8 @@ At the moment I am learning React & C# as well as improving my current skills by
 
 ## 🤝 Let´s get in touch:
 
-<a href="https://linkedin.com/in/martin-zazpe-290829121" target="blank"><img align="center"  src="https://img.icons8.com/color/344/linkedin-2--v1.png" alt="martin-zazpe-290829121" height="auto" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/Aw3fjmNr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/Aw3fjmNr" height="auto" width="40" /></a>
 
+<a href="https://discord.gg/https://discord.gg/Aw3fjmNr" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-0e76a8?style=for-the-badge&logo=Discord&logoColor=white alt="https://discord.gg/Aw3fjmNr" height="auto" width="40" /></a>
 
 
 <a href="https://linkedin.com/in/martin-zazpe-290829121" target="blank"><img align="center"  src="https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="martin-zazpe-290829121" height="40" width="120" /></a>
@@ -44,8 +43,3 @@ At the moment I am learning React & C# as well as improving my current skills by
 <a href="https://github.com/MartinZazpe" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" height="40" width="120" /></a>
 
 
-
-
-
-
-<a href="https://github.com/MartinZazpe" target="blank"><img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="auto" width="40" /></a>
