@@ -31,7 +31,6 @@ I'm currently working on a portfolio project for an actor client as well as smal
 At the moment I am learning React & C# as well as improving my current skills by building constant projects.
 
 
-link=http://Github.com&link=http://youtube.com
 
 ## 🤝 We can get in touch:
 
