@@ -32,6 +32,7 @@ At the moment I am learning React & C# as well as improving my current skills by
 
 
 
-## 🤝 We can get in touch:
+## 🤝 Let´s get in touch:
 
-<a href=”https://www.yushi.dev/" target=”_blank” rel=”noreferrer”>Yu</a> 👋
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![github](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
