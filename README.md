@@ -34,5 +34,5 @@ At the moment I am learning React & C# as well as improving my current skills by
 
 ## 🤝 Let´s get in touch:
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
-![github](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+<a href="https://linkedin.com/in/martin-zazpe-290829121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martin-zazpe-290829121" height="30" width="40" /></a>
+<a href="https://discord.gg/Martinzg#7599" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Martinzg#7599" height="30" width="40" /></a>
