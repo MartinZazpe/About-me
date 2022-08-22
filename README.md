@@ -34,6 +34,7 @@ At the moment I am learning React & C# as well as improving my current skills by
 
 ## 🤝 Let´s get in touch:
 
+<p float="left">
 
 <a href="https://discord.gg/https://discord.gg/Aw3fjmNr" target="blank" ><img align="center" src="https://img.shields.io/badge/Discord-424549?style=for-the-badge&logo=Discord&logoColor=white" alt="https://discord.gg/Aw3fjmNr" height="40" width="120" /></a>
 
@@ -41,4 +42,4 @@ At the moment I am learning React & C# as well as improving my current skills by
 
 <a href="https://github.com/MartinZazpe" target="blank" ><img align="center" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" height="40" width="120" /></a>
 
-
+</p>
