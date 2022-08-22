@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##About me
+## About me:
 
 I´m a frontend & backend web developer who enjoys building complete responsive and unique websites with great functionalities.
 
