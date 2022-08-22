@@ -34,4 +34,4 @@ At the moment I am learning React & C# as well as improving my current skills by
 
 ## 🤝 We can get in touch:
 
-https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FMartinZazpe
+<a href="www.youtube.com" target"_blank"></a>
