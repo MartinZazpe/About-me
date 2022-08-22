@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## About me:
 
 I´m a frontend & backend web developer who enjoys building complete responsive and unique websites with great functionalities.
-I´m graduated from DigitalHouse fullstack bootcamp where I learnt how to build websites with NodeJS and had experience working with a team using SCRUM all along the way.
+I graduated from DigitalHouse fullstack bootcamp where I learnt how to build websites with NodeJS and had experience working with a team using SCRUM all along the way.
 
 
 ## 🔭 I’m currently working on:
