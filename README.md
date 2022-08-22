@@ -35,7 +35,7 @@ link=http://Github.com&link=http://youtube.com
 
 ## 🤝 We can get in touch:
 
-![github](https://img.shields.io/badge/GitHub-000000?link=http://Github.com&link=http://youtube.com&style=for-the-badge&logo=GitHub&logoColor=white)]
+![github](https://img.shields.io/badge/GitHub-000000?link=http://Github.com&link=http://youtube.com&style=for-the-badge&logo=GitHub&logoColor=white)
 
 
 
