@@ -34,6 +34,4 @@ At the moment I am learning React & C# as well as improving my current skills by
 
 ## 🤝 We can get in touch:
 
-
-<a href="www.youtube.com"><img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
-></a>
+<a href=”https://www.yushi.dev/" target=”_blank” rel=”noreferrer”>Yu</a> 👋
