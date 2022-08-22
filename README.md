@@ -34,10 +34,4 @@ At the moment I am learning React & C# as well as improving my current skills by
 
 ## 🤝 We can get in touch:
 
-![github](https://img.shields.io/badge/GitHub-000000?link=http://Github.com&link=http://youtube.com&style=for-the-badge&logo=GitHub&logoColor=white)
-
-
-https://img.shields.io/badge/Github-Youtube-red?link=http://Github.com&link=http://youtube.com&logo=Github
-
-
-
+https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FMartinZazpe
