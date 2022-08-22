@@ -33,6 +33,7 @@ At the moment I am learning React & C# as well as improving my current skills by
 
 
 ## 🤝 We can get in touch:
-[go](http://stackoverflow.com){:target="_blank"}.
 
-<a href="www.youtube.com" target"blank"></a>
+
+<a href="www.youtube.com" target"blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white
+"></a>
