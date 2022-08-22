@@ -35,5 +35,5 @@ At the moment I am learning React & C# as well as improving my current skills by
 ## 🤝 We can get in touch:
 
 
-<a href="www.youtube.com" target"blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white
-"></a>
+<a href="www.youtube.com"><img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
+></a>
