@@ -33,5 +33,6 @@ At the moment I am learning React & C# as well as improving my current skills by
 
 
 ## 🤝 We can get in touch:
+[go](http://stackoverflow.com){:target="_blank"}.
 
 <a href="www.youtube.com" target"blank"></a>
