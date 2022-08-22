@@ -33,6 +33,6 @@ At the moment I am learning React & C# as well as improving my current skills by
 
 ## 🤝 We can get in touch:
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)<a href="https://github.com/MartinZazpe"></a>
+![github](https://img.shields.io/badge/https://github.com/MartinZazpe?style=for-the-badge&logo=GitHub&logoColor=white)<a href="https://github.com/MartinZazpe"></a>
 
 
