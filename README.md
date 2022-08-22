@@ -34,4 +34,4 @@ At the moment I am learning React & C# as well as improving my current skills by
 
 ## 🤝 We can get in touch:
 
-<a href="www.youtube.com" target"_blank"></a>
+<a href="www.youtube.com" target"blank"></a>
