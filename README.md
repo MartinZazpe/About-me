@@ -1,4 +1,4 @@
-![Banner de LinkedIn Morado y Blanco Tutora de Matemáticas](https://user-images.githubusercontent.com/82059357/185891418-d25a6572-1186-4d0d-a2db-7c96db8a5e0e.png)
+![Banner de LinkedIn Morado y Blanco Tutora de Matemáticas](https://user-images.githubusercontent.com/82059357/185893661-c9a40242-3a03-4419-9587-03e7d32e4334.png)
 
 Hey I´m Martin!
 
