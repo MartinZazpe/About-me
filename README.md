@@ -28,7 +28,7 @@ I'm currently working on a portfolio project for an actor client as well as smal
 
 
 ## 🌱 I’m currently learning:
-At the moment I am learning React & C# as well as improving my current skills by building constant projects.
+Building projects and learning React!
 
 
 
