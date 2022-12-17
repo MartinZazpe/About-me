@@ -23,13 +23,8 @@ I´m a frontend & backend web developer who enjoys building complete responsive 
 I graduated from DigitalHouse fullstack bootcamp where I learnt how to build websites with NodeJS and had experience working with a team using SCRUM all along the way.
 
 
-## 🔭 I’m currently working on:
-I'm currently working on a portfolio project for an actor client as well as smaller project that uses free API´s provided by NASA.
-
-
-## 🌱 I’m currently learning:
-Building projects and learning React!
-
+## 🌱 What am i currently working on?:
+I am currently working on my react skills.
 
 
 ## 🤝 Let´s get in touch:
