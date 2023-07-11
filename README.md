@@ -24,7 +24,7 @@ I graduated from DigitalHouse fullstack bootcamp where I learnt how to build web
 
 
 ## 🌱 What am i currently working on?:
-I am currently working on my react skills.
+I am currently learning JAVA.
 
 
 ## 🤝 Let´s get in touch:
